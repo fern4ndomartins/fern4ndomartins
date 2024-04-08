@@ -9,4 +9,14 @@ current projects:
 - making a 3d game engine in C with the vulkan API. 
 - implementing machine learning algorithms from scratch.
 - writting the linux kernel and its drivers from scratch.
+
+current books:
+- (...)
+
+my notes:
+- (...)
+
+find me at:
+twitter: @linuxdasilvajr
+linkedin: ...
 -->
