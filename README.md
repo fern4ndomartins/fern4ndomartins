@@ -11,7 +11,8 @@ current projects:
 - writting the linux kernel and its drivers from scratch.
 
 current books:
-- (...)
+- hackers delight
+- the rust programming language
 
 my notes:
 - (...)
